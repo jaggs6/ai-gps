@@ -33,7 +33,7 @@ All of it runs internally. The user just sees a better answer.
 Clone and load into Claude or Claude Code per the [skill installation docs](https://docs.claude.com/):
 
 ```bash
-git clone https://github.com/<your-org>/ai-gps.git
+git clone https://github.com/jaggs6/ai-gps.git
 ```
 
 Then ask Claude any task or decision question normally. The skill triggers automatically.
